@@ -1,4 +1,4 @@
-#  
+#  Enhance Things 3 for macOS with secure Tool for Things 3 for macOS - calendar integration and multi-device sync, the #1 tool. Includes calendar integration and multi-device sync
 
 
 
